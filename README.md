@@ -1,6 +1,4 @@
-WoF
-===
-
+#WoF
 Wheel Of Fortune Sound Player
 
 This is a small, standalone MFC app that runs on Windows.  It plays some common Wheel of Fortune sound effects for use
